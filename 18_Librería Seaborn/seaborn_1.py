@@ -14,7 +14,7 @@ import matplotlib.pyplot as plt
 print("La versión de la librería Numpy utilizada es: ", np.__version__)
 print("La versión de la librería Pandas utilizada es: ", pd.__version__)
 print("La versión de la librería Seaborn utilizada es: ", sns.__version__)
-print("La versión de la librería XlWings utilizada es: ", xw.__version__) #Para trabajar con excell
+#print("La versión de la librería XlWings utilizada es: ", xw.__version__) #Para trabajar con excell
 print("La versión de la librería MatPlotLib utilizada es: ", mpl.__version__)
 
 #3. CREAMOS O CAPTURAMOS DATOS

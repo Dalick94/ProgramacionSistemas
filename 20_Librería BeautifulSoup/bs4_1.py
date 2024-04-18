@@ -5,7 +5,7 @@ import requests
 
 #2. COMENZAMOS A REALIZAR UN ANÁLISIS WEB
     #MARCAMOS EL DESTINO DEL ANÁLISIS
-destino = requests.get('https://www.ferreteriadefrutos.com')
+destino = requests.get('http://ferintegra.com/')
 sopa = BeautifulSoup(destino.text, 'lxml')
     #EJECUTAMOS EL ANÁLISIS
     #OBTENER EL TÍTULO DE LA WEB
